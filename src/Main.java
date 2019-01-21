@@ -10,6 +10,11 @@ public class Main {
         System.out.println("Thank you "+ player1 +". Player 2, please enter your name: ");
         String player2= scanner.nextLine();
 
+        int sticks = 21;
+
+        while (sticks > 1) {
+
+        }
 
 
 
